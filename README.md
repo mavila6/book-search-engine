@@ -4,7 +4,7 @@
 
 ## Description
 
-A book search engine that uses a restful API and GraphQL built with an Apollo server.
+A book search engine that uses a restful API and GraphQL built with an Apollo server. 
 
 ## Table of Contents
 
